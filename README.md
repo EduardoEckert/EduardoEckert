@@ -5,9 +5,9 @@
 - 📫 Contate-me no email: eduardo_sperfeld@hotmail.com
 
 <div>
-  <a href="https://github.com/EduardoEckert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoEckert&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEckert&layout=compact&langs_count=7&theme=synthwave"/>
+  <a href="https://github.com/eduardoeckert">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoeckert&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoeckert&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   
