@@ -1,4 +1,6 @@
-## Olá! Eu sou o Eduardo Eckert
+## Seja Bem Vindo!
+<h1> Olá! Eu sou Eduardo Eckert 😀</h1>
+
 <div>
   <a href="https://github.com/eduardoeckert">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduardoEckert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
