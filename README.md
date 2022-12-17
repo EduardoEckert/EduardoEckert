@@ -1,5 +1,5 @@
 ## Seja Bem Vindo!
-<h1> Olá! Eu sou Eduardo Eckert 😀</h1>
+<h1> Olá! Eu sou Eduardo Eckert Sperfeld 😀</h1>
 
 <div>
   <a href="https://github.com/eduardoeckert">
